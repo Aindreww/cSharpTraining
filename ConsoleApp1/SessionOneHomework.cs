@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-int BoxA,BoxB,BoxC,BoxD,BoxE,BoxF,BoxG;
+﻿int BoxA,BoxB,BoxC,BoxD,BoxE,BoxF,BoxG;
 BoxA = 34 ;
 BoxB = 4 ;
 BoxC = BoxA + BoxB;
